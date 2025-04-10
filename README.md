@@ -2,6 +2,12 @@
 
 A music application designed to be a unified interface for managing, editing, tagging, and playing music.
 
+> License Notice
+>
+> Copyright (c) 2024 Hellx2
+> This project is licensed under the MIT License.
+> See the LICENSE file in the project root for full license text.
+
 ## Roadmap
 
 [ ] Create basic UIs for managing music.
