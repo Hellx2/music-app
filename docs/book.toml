@@ -1,0 +1,6 @@
+[book]
+authors = ["Hellx2"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Music App"
