@@ -1,4 +1,4 @@
-# Music App
+# Tulip Music App
 
 A music application designed to be a unified interface for managing, editing, tagging, and playing music.
 
