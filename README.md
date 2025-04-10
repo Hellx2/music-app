@@ -4,8 +4,8 @@ A music application designed to be a unified interface for managing, editing, ta
 
 > License Notice
 >
-> Copyright (c) 2024 Hellx2
-> This project is licensed under the MIT License.
+> Copyright (c) 2024 Hellx2.<br>
+> This project is licensed under the MIT License.<br>
 > See the LICENSE file in the project root for full license text.
 
 ## Roadmap
